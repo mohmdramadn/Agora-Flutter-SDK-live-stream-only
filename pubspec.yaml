@@ -1,4 +1,4 @@
-name: agora_rtc_engine
+name: agora_flutter_sdk_live_stream_only
 description: >-
   Flutter plugin of Agora RTC SDK, allow you to simply integrate Agora Video
   Calling or Live Video Streaming to your app with just a few lines of code.
